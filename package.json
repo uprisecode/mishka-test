@@ -1,0 +1,13 @@
+{
+  "name": "device",
+  "dependencies": {
+    "npm": "^5.8.0"
+  },
+  "version": "0.1.0",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-rename": "^1.2.2"
+  }
+}
